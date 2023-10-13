@@ -26,7 +26,7 @@ For naming methods use {your_test_naming_pattern} naming convention as a pattern
 * Generate unit tests by [ChatGPT](#https://chat.openai.com/)
 * Refactor your result
 
-*Don't worry if you got stuck, checkout the **exercise/completed** branch and see the final implementation
- 
+*Don't worry if you got stuck, you can check out the **chatGPT/generated** and **chatGPT/refactored** branches and see the final implementations
+
 ### Reference:
- *  In this demo was used code from [Bobocode](https://github.com/bobocode-projects) <img src="https://raw.githubusercontent.com/bobocode-projects/resources/master/image/logo_transparent_background.png" height=20/> -  open-source education project
+*  In this demo was used code from [Bobocode](https://github.com/bobocode-projects) <img src="https://raw.githubusercontent.com/bobocode-projects/resources/master/image/logo_transparent_background.png" height=20/> -  open-source education project
